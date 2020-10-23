@@ -12,6 +12,7 @@ packages:
   crucible-saw/
   crucible-server/
   crucible-syntax/
+  crucible-symio/
   crux/
   crux-llvm/
   crux-mir/
